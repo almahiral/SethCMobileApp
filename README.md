@@ -38,6 +38,10 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+SETH stands for Safe Electronic Ticket for Health.
+
+SETH is a system consisting of integrated website and mobile application to prevent fake COVID-19 test results to be distributed around Indonesia whilst solving 5 Sustainable Development Goals.
+
 SETH C is used as an information channel and certificate verification for the users. On developing this app, AGAK Tech Team use google product such as flutter and google cloud platform. 
 
 ### Pages Worked
